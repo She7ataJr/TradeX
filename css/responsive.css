@@ -1,0 +1,9 @@
+@media (min-width:320px) and (max-width: 1023px)   {
+    .custom-cols{
+        position: static;
+
+    }
+    #contact-img{
+        display: none;
+    }
+}
